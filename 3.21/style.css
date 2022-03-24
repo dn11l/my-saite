@@ -1,0 +1,19 @@
+#color{
+
+transition:background 1s linear;
+}
+#color:hover{
+background:blue;	
+}
+.color1{
+width:200px;
+height:200px;
+border:1px solid;
+color:red;
+transition:background  1s linear;
+transition:border 1s linear;
+}
+.color1:hover{
+background:blue;	
+border:4px solid;
+}
